@@ -79,7 +79,7 @@ a **realistic practice test set** tailored for the current exam syllabus.
 
 If you found this repo helpful, please ⭐ it and share with others preparing for the exam.
 
-Got feedback or questions? Open an [Issue](https://github.com/your-repo/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/juberrahman/).
+Got feedback or questions? Open an [Issue](https://github.com/your-repo/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/mdjuberrahman/).
 
 ---
 
