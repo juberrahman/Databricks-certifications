@@ -93,4 +93,6 @@ An AI application needs to perform the following steps: extract data from a docu
 The logical sequence starts with extracting data from the document (Extractor), then interpreting the extracted data to understand its context and meaning (Interpreter), and finally summarizing the interpreted information (Summarizer). This order ensures a coherent flow from raw data to meaningful summary.
 
 ---
+For more questions checkout the practice test here
 
+https://www.udemy.com/course/databricks-certified-generative-ai-engineer-practice-tests/?referralCode=FFB6E54DAB48E4C96FBC
