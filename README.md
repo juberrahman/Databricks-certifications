@@ -76,7 +76,7 @@ a **realistic practice test set** tailored for the current exam syllabus.
 
 ## 🛠️ Stay Connected
 
-If you found this repo helpful, please ⭐ it and share with others preparing for the exam.
+If you found this repo helpful, please ⭐ it, contribute with question dumps and share with others preparing for the exam.
 
 Got feedback or questions? Open an [Issue](https://github.com/your-repo/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/mdjuberrahman/).
 
