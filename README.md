@@ -44,8 +44,8 @@ A practical prep guide by a successful test-taker, discussing:
 
 ---
 
-### 🔹 [My Udemy Practice Test Course](https://www.udemy.com/course/databricks-certified-generative-ai-engineer-practice-tests/)
-I’ve created a **realistic practice test set** tailored for the current exam syllabus.
+### 🔹 [Udemy Practice Test Course](https://www.udemy.com/course/databricks-certified-generative-ai-engineer-practice-tests/)
+a **realistic practice test set** tailored for the current exam syllabus.
 
 - Covers 250+ exam-style MCQs
 - Includes detailed explanations
@@ -79,7 +79,7 @@ I’ve created a **realistic practice test set** tailored for the current exam s
 
 If you found this repo helpful, please ⭐ it and share with others preparing for the exam.
 
-Got feedback or questions? Open an [Issue](https://github.com/your-repo/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/).
+Got feedback or questions? Open an [Issue](https://github.com/your-repo/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/juberrahman/).
 
 ---
 
