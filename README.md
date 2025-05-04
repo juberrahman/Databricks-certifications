@@ -22,7 +22,7 @@ The Databricks Generative AI Engineer certification validates your ability to:
 
 Here are some **high-quality, free, and official resources** that will help you ace the exam:
 
-### 🔹 [Databricks GenAI Engineer Cookbook](https://www.databricks.com/resources/ebook/generative-ai-cookbook)
+### 🔹 [Databricks GenAI Engineer Cookbook](https://docs.databricks.com/aws/en/generative-ai/tutorials/ai-cookbook )
 An official guide with hands-on examples covering:
 
 - Prompt engineering
