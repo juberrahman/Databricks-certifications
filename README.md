@@ -33,7 +33,7 @@ An official guide with hands-on examples covering:
 
 ---
 
-### 🔹 [LinkedIn Study Guide by Maneesh Mane](https://www.linkedin.com/pulse/preparation-guide-databricks-generative-ai-engineer-associate-mane-0toxf/)
+### 🔹 [Study Guide from Medium Article](https://medium.com/@mdjuberrahman/ultimate-guide-to-the-databricks-certified-generative-ai-engineer-associate-exam-structure-topics-1a2ec3a6f56f)
 A practical prep guide by a successful test-taker, discussing:
 
 - Key areas covered in the exam
