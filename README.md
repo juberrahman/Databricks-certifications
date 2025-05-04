@@ -55,15 +55,6 @@ a **realistic practice test set** tailored for the current exam syllabus.
 
 ---
 
-## 💡 Bonus Tips
-
-- ✅ Use **Databricks Notebooks** hands-on while learning about RAG pipelines, MLflow, and Delta tables.
-- ✅ Review **Unity Catalog concepts** and how access controls apply to model assets.
-- ✅ Understand **open-source LLM frameworks** like LangChain and HuggingFace.
-- ✅ Be familiar with **model inference techniques** (batch vs real-time).
-
----
-
 ## 📌 Sample Question
 
 > **Q:** What does Retrieval Augmented Generation (RAG) help solve in LLM applications?
@@ -74,6 +65,15 @@ a **realistic practice test set** tailored for the current exam syllabus.
 - D. Improving tokenization speed
 
 ---
+--
+
+## 💡 Bonus Tips
+
+- ✅ Use **Databricks Notebooks** hands-on while learning about RAG pipelines, MLflow, and Delta tables.
+- ✅ Review **Unity Catalog concepts** and how access controls apply to model assets.
+- ✅ Understand **open-source LLM frameworks** like LangChain and HuggingFace.
+- ✅ Be familiar with **model inference techniques** (batch vs real-time).
+
 
 ## 🛠️ Stay Connected
 
